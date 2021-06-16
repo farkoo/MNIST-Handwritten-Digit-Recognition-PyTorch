@@ -8,4 +8,21 @@ The MNIST database is a large database of handwritten digits that is commonly us
 
 In this notebook, we try to classify this database using a relatively simple convolutional neural network implemented in the PyTorch framework.
 
-After 3 epochs model training, we reach 97% accuracy.
+After 3 epochs model training, we reached 97% accuracy.
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/MNIST-Handwritten-Digit-Recognition-PyTorch/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
